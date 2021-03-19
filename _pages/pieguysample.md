@@ -1,8 +1,9 @@
 ---
 defaults:
   # _pages
+  permalink: /Pie-Guy/
   - scope:
-      path: "oliverloreto.com/Pie-Guy/"
+      path: ""
       type: pages
     values:
       layout: single
