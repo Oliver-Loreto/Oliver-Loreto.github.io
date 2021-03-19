@@ -6,7 +6,7 @@ main:
     url: /Resume/
    - title: "Recipes"
      url: /Recipes/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  title: "Pie Guy"
+   url: /Pie-Guy/
+   - title: "Unnamed Ice Cream Racket"
+    url: /Unnamed-Ice-Cream-Racket/
