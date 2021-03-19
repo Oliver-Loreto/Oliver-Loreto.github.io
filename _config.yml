@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CHC Students, Presidential Scholar, Recipe Tinkerer, Prospective USS North Helpdesk Employee"
   location         : "Eugene, Oregon"
-  email            : "541.393.7900"
+  email            : 
   links:
     - label: "Professional Email"
       icon: "fas fa-fw fa-envelope-square"
