@@ -36,7 +36,7 @@ base recipe credit: [ATK](https://www.americastestkitchen.com/recipes/8125-choco
 9. Transfer to confectioner's sugar, roll to coat. Dust off excess before placing on sheet.
 10. Evenly space balls on prepared sheets, 11 per sheet.
 11. Bake 1 sheet at a time, for 12 minutes, rotating halfway through. Bake until puffed and cracked and edges have begun to set but centers are still soft (cookies will look raw between cracks and seem underdone)
-12. Let cool completely on *sheet* before serving.
+12. Let cool completely on *sheet* before serving.  
 **Notes:**  
 Replace ~15% of sugar w/ trimoline, add 1 gram carboxymethylcellulose per batch. Let rest ~25 minutes instead of 15, surface should have dry, taffy-like consistency.  
 Add pictures for next time
