@@ -2,7 +2,7 @@
   # _pages
   permalink: /Recipes/
 ---
-["Crinkle Cookies"](/Recipes/chocolate-crinkle-cookies/)
+["Crinkle Cookies"]()
 "Chocolate Chantilly"
 "Invert Sugar"
 test
