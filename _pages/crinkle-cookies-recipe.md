@@ -1,7 +1,6 @@
 ---
   # _pages
   permalink: /chocolate-crinkle-cookies/
-  classes: wide
 ---
 # Chocolate Crinkle Cookies
 base recipe credit: [ATK](https://www.americastestkitchen.com/recipes/8125-chocolate-crinkle-cookies?incode=MASAD00L0&ref=new_search_experience_1)  
