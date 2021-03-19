@@ -1,13 +1,6 @@
 ---
-defaults:
   # _pages
-  permalink: oliverloreto.com/Pie-Guy/
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  permalink: /Pie-Guy/
 ---
 "Sample Recipe:"
 "Step 1: get ingredients"
