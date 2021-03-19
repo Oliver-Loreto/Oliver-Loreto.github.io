@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: "/Pie-Guy/"
+      path: "oliverloreto.com/Pie-Guy/"
       type: pages
     values:
       layout: single
