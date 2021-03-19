@@ -111,7 +111,7 @@ author:
       url: "https://oliverloreto.com"
     - label: "Text"
       icon: "fas fa-fw comment-alt"
-      url: "541-393-7900"
+      tel: "541-393-7900"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
