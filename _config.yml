@@ -101,8 +101,8 @@ author:
   email            :
   links:
    # - label: "Professional Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:professional@oliverloreto.com"
+    #  icon: "fas fa-fw fa-envelope-square"
+     #  url: "mailto:professional@oliverloreto.com"
     #- label: "Personal Email"
      # icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:oliverloreto1@gmail.com"
