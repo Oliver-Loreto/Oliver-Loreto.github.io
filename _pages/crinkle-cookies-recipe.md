@@ -7,8 +7,8 @@
 base recipe credit: [ATK](https://www.americastestkitchen.com/recipes/8125-chocolate-crinkle-cookies?incode=MASAD00L0&ref=new_search_experience_1)  
 
 ## **Ingredients:**   
-<pre>
-297 grams all-purpose flour  
+
+- 297 grams all-purpose flour  
 42 grams cocoa powder  
 4 grams (1 teaspoon) baking powder  
 1.5 grams (1/4 teaspoon) baking soda  
