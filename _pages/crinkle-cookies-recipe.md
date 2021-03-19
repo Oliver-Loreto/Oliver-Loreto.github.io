@@ -2,10 +2,10 @@
   # _pages
 permalink: /chocolate-crinkle-cookies/
 ---
-
+# Chocolate Crinkle Cookies
 base recipe credit: [ATK](https://www.americastestkitchen.com/recipes/8125-chocolate-crinkle-cookies?incode=MASAD00L0&ref=new_search_experience_1)  
 
-# **Ingredients:**   
+## **Ingredients:**   
 <pre>
 297 grams all-purpose flour  
 42 grams cocoa powder  
@@ -23,7 +23,7 @@ base recipe credit: [ATK](https://www.americastestkitchen.com/recipes/8125-choco
 99 grams granulated sugar for coating  
 57 grams confectioner's sugar for coating </pre>    
 
-**Procedure:**  
+### **Procedure:**  
 <pre>
 1. Place oven rack in middle and preheat to 325F. Line 2 baking sheets with parchment paper.
 2. Whisk flour, cocoa powder, baking powder, baking soda, salt and CMC together in medium bowl. 
@@ -40,5 +40,5 @@ base recipe credit: [ATK](https://www.americastestkitchen.com/recipes/8125-choco
 11. Bake 1 sheet at a time, for 12 minutes, rotating halfway through. Bake until puffed and cracked and edges have begun to set but centers are still soft (cookies will look raw between cracks and seem underdone)
 12. Let cool completely on *sheet* before serving.  </pre>
 **Notes:**  
-Replace ~15% of sugar w/ trimoline, add 1 gram carboxymethylcellulose per batch. Let rest ~25 minutes instead of 15, surface should have dry, taffy-like consistency.  
-Add pictures for next time
+> Replace ~15% of sugar w/ trimoline, add 1 gram carboxymethylcellulose per batch. Let rest ~25 minutes instead of 15, surface should have dry, taffy-like consistency.  
+> Add pictures for next time
