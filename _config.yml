@@ -97,7 +97,7 @@ author:
   name             : "Oliver Loreto"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CHC Students, Presidential Scholar, Recipe Tinkerer, Prospective USS North Helpdesk Employee"
-  location         : "Somewhere"
+  location         : "Eugene, Oregon"
   email            :
   links:
    # - label: "Professional Email"
@@ -106,7 +106,7 @@ author:
     #- label: "Personal Email"
      # icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:oliverloreto1@gmail.com"
-    - label: "Website"
+    - label: "This Website"
       icon: "fas fa-fw fa-link"
       url: "https://oliverloreto.com"
     - label: "Twitter"
