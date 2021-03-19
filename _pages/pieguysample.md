@@ -1,7 +1,7 @@
 ---
 defaults:
   # _pages
-  permalink: /Pie-Guy/
+  permalink: /pieguysample/
   - scope:
       path: ""
       type: pages
