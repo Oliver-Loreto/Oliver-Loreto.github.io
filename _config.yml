@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CHC Students, Presidential Scholar, Recipe Tinkerer, Prospective USS North Helpdesk Employee"
   location         : "Eugene, Oregon"
-  email            :
+  email            : "541.393.7900
   links:
     - label: "Professional Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -111,6 +111,7 @@ author:
       url: "https://oliverloreto.com"
     - label: "Text Only: 541-393-7900"
       icon: "fab fa-fw fa-acquisitions-incorporated"
+      url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
