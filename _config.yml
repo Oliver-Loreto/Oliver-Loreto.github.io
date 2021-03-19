@@ -100,7 +100,7 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Professional Email"
+   # - label: "Professional Email"
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:professional@oliverloreto.com"
     #- label: "Personal Email"
