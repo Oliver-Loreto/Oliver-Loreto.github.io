@@ -1,6 +1,6 @@
 ---
 # test.md
-layout: default
+defaults:
 permalink: /test/
 ---
 words
