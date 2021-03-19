@@ -1,5 +1,6 @@
 ---
   # _pages
+  classes: wide
 permalink: /chocolate-crinkle-cookies/
 ---
 # Chocolate Crinkle Cookies
