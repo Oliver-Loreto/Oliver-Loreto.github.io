@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Oliver Loreto"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CHC Students, Presidential Scholar, Recipe Tinkerer, Prospective USS North Helpdesk Employee"
+  bio              : "CHC Student, Presidential Scholar, Recipe Tinkerer, Prospective USS North Helpdesk Employee"
   location         : "Eugene, Oregon"
-  email            : 
+ # email            : 
   links:
     - label: "Professional Email"
       icon: "fas fa-fw fa-envelope-square"
