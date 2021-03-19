@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Resume"
     url: /Resume/
-   - title: "Recipes"
-     url: /Recipes/
- - title: "Pie Guy"
-   url: /Pie-Guy/
-   - title: "Unnamed Ice Cream Racket"
+  - title: "Recipes"
+    url: /Recipes/
+  - title: "Pie Guy"
+    url: /Pie-Guy/
+  - title: "Unnamed Ice Cream Racket"
     url: /Unnamed-Ice-Cream-Racket/
