@@ -2,7 +2,7 @@
   # _pages
   permalink: /Recipes/
 ---
-"Crinkle Cookies"
+["Crinkle Cookies"](oliverloreto.com/Recipes/chocolate-crinkle-cookies/)
 "Chocolate Chantilly"
 "Invert Sugar"
 
